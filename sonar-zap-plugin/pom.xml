@@ -17,7 +17,7 @@
         <sonar.pluginClass>org.sonar.zaproxy.ZapPlugin</sonar.pluginClass>
         <sonar.pluginName>ZAP</sonar.pluginName>
 
-        <commons.io.version>2.6</commons.io.version>
+        <commons.io.version>2.7</commons.io.version>
         <commons.lang.version>2.6</commons.lang.version>
         <jsr305.version>3.0.2</jsr305.version>
         <staxmate.version>2.3.1</staxmate.version>
